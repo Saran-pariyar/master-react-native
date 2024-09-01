@@ -1,1 +1,6 @@
-1. Next step: UI & interaction -> Interaction -> Handling Touches
+1. Next step: UI & interaction -> Interaction -> On Handling Touches (done)
+
+flex:1 means take all available space. But parents should also have value of "flex:1;" to make this work
+
+
+Learn: Core component of docs too
